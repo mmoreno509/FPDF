@@ -7,6 +7,10 @@
 * Author:  Olivier PLATHEY                                                     *
 *******************************************************************************/
 
+namespace PDF;
+
+use Exception;
+
 define('FPDF_VERSION','1.81');
 
 class FPDF
